@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Understanding Your Data",
+      "author": [],
+      "contents": "\r\nBackground\r\nThe CDU Data Science team and Applied Information team initiated a workshop meeting with those interested in “understanding your data” in the first week of March 2021. This was started in response to our need to ensure that the solutions we create are understood by everyone and that we are concentrating on the right problems.\r\nThis will be a continuous two-way discussion facilitated by the CDU Data Science Team and will also include analysts from Applied Information and Performance.\r\nThe Understanding Your Data also links into the initiative of Data Clinics where particular specific support has been given to teams with their data. This has been facilitated by our Clinical Analyst.\r\nMeeting dates\r\nTo try to accommodate as many diaries as possible the day of the meeting will change each month and always be at the same time (1130-1230):\r\nFri 4th June\r\nMore dates soon\r\nIf you would like to know more about these meetings and come along (meetings are on MS Teams), please contact Zoë Turner.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-28T20:41:41+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Understanding Your Data",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-28T20:41:53+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
