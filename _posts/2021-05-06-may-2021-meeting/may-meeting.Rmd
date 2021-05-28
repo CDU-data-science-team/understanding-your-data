@@ -12,13 +12,18 @@ output:
 categories:
   - HoNOS
   - Training
-  
-  
+preview: preview.png 
 --- 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+```{r intro-pic, fig.alt="Pencil drawing of lavender", out.width = "400px"}
+knitr::include_graphics("img/lavender.jpg")
+```
+[Image by Doris Jungo from Pixabay](Image by <https://pixabay.com/users/saramukitza-2447148/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2452106)
 
 It's a great misconception that there are "data people" and there are "non-data people" as **everyone** is a "data person" so long as that data is relevant to them or their work. Whilst you may not necessarily feel you are a "data person", it's often the case that when presented with something that is relevant and incorrect, it's noticed, even if it's not possible to explain why. It's in this context that the success of the Understanding Your Data meetings lies as, whilst people have been coming due to an interest in data, the themed discussions often were similar or very closely related. At the last Understanding Your Data meeting in particular, we discussed some frustrations, challenges and concerns around data in the context of two particular subject areas: HoNOS and incident data. 
 

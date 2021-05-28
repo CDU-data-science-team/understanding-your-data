@@ -16,13 +16,19 @@ categories:
   - Maps
   - Data Clinics
   - Patient Feedback
-      
+preview: preview.png       
 ---
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+```{r intro-pic, fig.alt="Pencil drawing of catkins", out.width = "400px"}
+knitr::include_graphics("img/willow-catkin.png")
+```
+[Image by mitosue from Pixabay ](https://pixabay.com/users/mitosue-4996365/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=22490118)
 
 # CDU Data Science Roadmap
 

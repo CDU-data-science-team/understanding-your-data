@@ -10,13 +10,19 @@ output:
   distill::distill_article:
     self_contained: false
 categories:
-  - Communications    
+  - Communications   
+preview: preview.png   
 ---
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r intro-pic, fig.alt="Pencil drawing of 3 leaves on one stem", out.width = "400px"}
+knitr::include_graphics("img/leaves.png")
+```
+[Image by Piyapong Saydaung from Pixabay](https://pixabay.com/users/piyapong89-7158719/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5677717)
 
 # Initial communication
 
