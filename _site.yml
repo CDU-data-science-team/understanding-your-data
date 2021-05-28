@@ -9,4 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "CDU Blog"
+      href: https://cdu-data-science-team.github.io/team-blog/
 output: distill::distill_article

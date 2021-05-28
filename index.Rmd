@@ -1,15 +1,6 @@
 ---
 title: "Understanding Your Data"
-description: |
-  Website and related information for the Understanding Your Data meetings at Nottinghamshire Healthcare NHS Foundation Trust
 site: distill::distill_website
+listing: posts
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
 
