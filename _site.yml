@@ -2,7 +2,7 @@ name: "understanding-your-data"
 title: "Understanding Your Data"
 description: |
   Understanding Your Data
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
