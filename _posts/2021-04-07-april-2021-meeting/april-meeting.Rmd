@@ -8,6 +8,7 @@ author:
 date: 04-07-2021
 output:
   distill::distill_article:
+    toc: true
     self_contained: false
 categories:
   - Training
@@ -16,19 +17,13 @@ categories:
   - Maps
   - Data Clinics
   - Patient Feedback
-preview: preview.png       
+preview: img/willow-catkin.png       
 ---
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-
-```{r intro-pic, fig.alt="Pencil drawing of catkins", out.width = "400px"}
-knitr::include_graphics("img/willow-catkin.png")
-```
-[Image by mitosue from Pixabay ](https://pixabay.com/users/mitosue-4996365/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=22490118)
 
 # CDU Data Science Roadmap
 
@@ -69,6 +64,4 @@ Some individual pieces of work have come out of the Understanding your data meet
 ## Patient Feedback
 
 Nottinghamshire Healthcare NHS Foundation Trust's Patient Feedback (including [Care Opinion](https://www.careopinion.org.uk/services/rha) information) can be found [here](http://suce.co.uk:8080/apps/SUCE/).
-
-
 

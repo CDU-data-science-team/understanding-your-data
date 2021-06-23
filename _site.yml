@@ -1,5 +1,6 @@
 name: "understanding-your-data"
 title: "Understanding Your Data"
+theme: hospital-theme.css
 description: |
   Understanding Your Data
 output_dir: "docs"
