@@ -8,10 +8,11 @@ author:
 date: 02-03-2021
 output:
   distill::distill_article:
+    toc: true
     self_contained: false
 categories:
   - Communications   
-preview: preview.png   
+preview: img/leaves.png  
 ---
 
 
@@ -19,10 +20,6 @@ preview: preview.png
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r intro-pic, fig.alt="Pencil drawing of 3 leaves on one stem", out.width = "400px"}
-knitr::include_graphics("img/leaves.png")
-```
-[Image by Piyapong Saydaung from Pixabay](https://pixabay.com/users/piyapong89-7158719/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5677717)
 
 # Initial communication
 
