@@ -10,6 +10,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Accessibility"
+      href: accessibility.html
     - text: "CDU Blog"
       href: https://cdu-data-science-team.github.io/team-blog/
 output: 
