@@ -33,6 +33,8 @@ https://cdu-data-science-team.github.io/presentations/2021-03-01%20CDU%20Data%20
 
 <iframe src="https://cdu-data-science-team.github.io/presentations/2021-03-01%20CDU%20Data%20Science%20Team%20Roadmap/roadmap.html#1" width="600" height="400" loading="lazy" allowfullscreen></iframe> <script>fitvids('.shareagain', {players: 'iframe'});</script>
 
+More information on the team and what we do was presented by Milan Wiedemann. Slides are [here](https://docs.google.com/presentation/d/10su0anky4s7rQ7ivpwN1cZvIrgJRSfJP5NB4L5y7aW8/edit#slide=id.gcc47524736_1_112).
+
 # Themes from the events
 
 ## Training
