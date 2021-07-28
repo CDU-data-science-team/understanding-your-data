@@ -1,0 +1,47 @@
+---
+title: "Collecting data and reporting through MHSDS"
+description: |
+  A short description of the post.
+author:
+  - name: Zoë Turner
+    url: https://twitter.com/Letxuga007
+date: 07-28-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - National Returns
+  - Collecting data
+  - Gender Identity
+preview: img/flying-dandelions.png     
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Collecting gender and sex information
+
+At the July meeting of Understanding Your Data the group was updated on some discussions that have been had around the collection of gender identity information. Currently, particularly for the Mental Health clinical system, data is collected for Gender as determined by the [NHS Data Dictionary](https://www.datadictionary.nhs.uk/data_elements/person_stated_gender_code.html?hl=gender) and which feeds into the National Return [MHSDS](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set). This information is collected in the front page of RIO which is the same for all organisations that use it. Whilst we can set the pick lists, we would have to put in a request to change/add/delete the questions and this would have to apply nationally.
+
+Gender identity, pronouns and titles are of increasing importance to patients and this data, if recorded with consent, is not collected in the same places across the teams. There are also other systems where this is also of consideration both clinical and for employees. The LGBT Foundation and NHS England hosted a webinar on the subject of ["If you’re not counted,
+you don't count!"](https://www.england.nhs.uk/wp-content/uploads/2019/07/edc03-som-presentation-april-2018.pdf) and whilst the data around LGB can be better collected, there is a specific place in the clinical systems for this. 
+
+Applied Information updated the group that the current MHSDS v4.0 will be updated by the end of the year to [v5.0](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set/tools-and-guidance/v5.0) which will result in a new category list for [gender identity](https://www.datadictionary.nhs.uk/attributes/gender_identity_code.html). 
+
+## MHSDS flows
+
+We discussed the possibility of changing the category pick list now, which is possible but this would not flow to MHSDS as the categories that are new to the return would be rejected. 
+
+Forms have been set up in other parts of RIO to show a pick list to users that is useful but is mapped in the background to the MHSDS categories which were deemed more restrictive. However, in this case there would be no mapping for Non-binary and Other (not listed). 
+
+# Data Quality
+
+We discussed where data doesn't seemingly correspond in gender, for example a male name but with Mrs as a title could be a data entry error. Raising these issues could, possibly, highlight a person being transgender or non-binary without their consent and, particularly when looking at different clinical systems, could be a deliberate choice in selection of differing genders.
+
+This has occurred for the patient survey which uses Titles and on 2 occasions these were checked with the lead clinician for the referral. On both occasions there was a delay in response due to workload so the National Spine was used ultimately for the purpose of the survey. 
+
+Through analysis we often find data quality errors like dates of birth being the same as the referral date as they were unknown, generic or same dates for [cultural reasons](https://www.mprnews.org/story/2009/12/29/january-1-birthdays). We also noted that for some services where details are unknown, some names are created as a requirement of the system and these often follow a format like John Doe, Jane Doe or phonetic names like Alpha, Beta, Charlie and so on. However, not all analysts look at names, only the ids of patients and service information so these would not be highlighted or corrected.
+
+We discussed where data quality issues could be raised appropriately and we agreed that a Standard Operating Procedure would be really useful for analysts. We acknowledged that this may vary according to data and also by teams and getting input from teams across the organisation, including general health teams, would be required. One way to do this is to open up any documentation to access through the Intranet.
