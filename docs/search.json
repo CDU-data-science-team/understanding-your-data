@@ -5,7 +5,7 @@
       "title": "Understanding Your Data",
       "author": [],
       "contents": "\r\nBackground\r\nThe CDU Data Science team and Applied Information team initiated a workshop meeting with those interested in “understanding your data” in the first week of March 2021. This was started in response to our need to ensure that the solutions we create are understood by everyone and that we are concentrating on the right problems.\r\nThis will be a continuous two-way discussion facilitated by the CDU Data Science Team and will also include analysts from Applied Information and Performance.\r\nThe Understanding Your Data also links into the initiative of Data Clinics where particular specific support has been given to teams with their data. This has been facilitated by our Clinical Analyst.\r\nMeeting dates\r\nTo try to accommodate as many diaries as possible the day of the meeting will change each month and always be at the same time (1130-1230):\r\nMonday 26 July Tuesday 24 August Wednesday 25 September Thursday 26 October Friday 26 November Monday 20 December\r\nIf you would like to know more about these meetings and come along (meetings are on MS Teams), please contact CDU Data Science Team.\r\nFor Nottinghamshire Healthcare NHS Foundation Trust staff on the Trust network: The team’s calendar is open to view by selecting Folder/Select Calendar and searching for CDU Data Science.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-28T11:10:48+01:00"
+      "last_modified": "2021-07-28T12:46:42+01:00"
     },
     {
       "path": "accessibility.html",
@@ -19,14 +19,14 @@
       ],
       "date": "06-24-2021",
       "contents": "\r\nA great deal of our data and analysis is produced in various formats that may not be accessible to everyone. Whilst the majority are happy with the formats, it may be prohibitive to those with specific needs to the extent that they may not even know that data can be provided in formats that are accessible to them.\r\nThe Government Statistical Society (GSS) are doing a lot of work around accessibility and the CDU Data Team wants to use these guidelines and promote them throughout the Trust and further. Consequently we’d like to dedicate the October meeting of Understanding Your Data to starting the conversations around accessibility. We have chosen this to be October in order to promote this within the Trust, to take account of summer holidays and to try to raise awareness of our interest with groups that may not necessarily have considered attending this meeting before, but who we would like to direct our thinking and approaches to working with data.\r\nA couple of example of accessibility that we’ve considered are:\r\nhaving a standard chart to accommodate accessibility for colour and contrast or at least having these charts available (without specific requests)\r\nmachine readable documentation which is useful for screen readers, but also for the programming tools we use as analyst and data scientists\r\naccessible formats for documentation and reports\r\nalt text for charts and images (alternative text which is the written explanation of what a picture is showing)\r\nusing our data science tools to extract scanned pictures from pdfs which occur when documents are scanned. The tools we have use OCR (Optical Character Recognition) but still rely upon a person to see the text to extract\r\nMany of these have been inspired from GSS and from following individuals on Social Media, like Twitter, to learn about best practice and the difficulties different people face with data, analysis and visualisations.\r\nIf you are interested in this please do get in touch with the team at CDU Data Science Team\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-28T11:11:00+01:00"
+      "last_modified": "2021-07-28T12:46:46+01:00"
     },
     {
       "path": "index.html",
       "title": "Understanding Your Data",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-28T11:11:03+01:00"
+      "last_modified": "2021-07-28T12:46:57+01:00"
     }
   ],
   "collections": ["posts/posts.json"]

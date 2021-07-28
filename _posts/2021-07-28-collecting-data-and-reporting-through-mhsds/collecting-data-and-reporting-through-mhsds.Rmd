@@ -1,13 +1,14 @@
 ---
 title: "Collecting data and reporting through MHSDS"
 description: |
-  A short description of the post.
+  Discussions started with how gender identity is currently collected, how this is affected by a National Return and how we need to document how to escalage apparent mistakes in data appropriately.
 author:
   - name: Zoë Turner
     url: https://twitter.com/Letxuga007
 date: 07-28-2021
 output:
   distill::distill_article:
+    toc: true
     self_contained: false
 categories:
   - National Returns
