@@ -18,8 +18,8 @@ The Understanding Your Data also links into the initiative of Data Clinics where
 
 To try to accommodate as many diaries as possible the day of the meeting will change each month and always be at the same time (1130-1230):
 
-Monday 26 July 
-</br>Tuesday 24 August 
+Monday 26 July https://cdu-data-science-team.github.io/understanding-your-data/posts/2021-07-28-collecting-data-and-reporting-through-mhsds/
+</br>Tuesday 24 August https://cdu-data-science-team.github.io/understanding-your-data/posts/2021-08-24-dashboards-and-reports/
 </br>Wednesday 29 September 
 </br>Thursday 28 October 
 </br>Friday 26 November 

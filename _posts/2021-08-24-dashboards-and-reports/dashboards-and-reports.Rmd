@@ -13,7 +13,7 @@ output:
 categories:
   - Outcomes
   - Outputs
-preview: img/flying-dandelions.png    
+preview: img/flowers.jpg  
 ---
 
 
