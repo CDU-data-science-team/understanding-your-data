@@ -1,10 +1,9 @@
 ---
 title: "Accesssibility"
 description: |
-  The CDU Data Science Team plan to discuss data accessibility in more depth in the Understanding Your Data meetings in the 28 October 2021 meeting. This page will detail those reflections and links.
+  The CDU Data Science Team plan to discuss data accessibility in more depth in the Understanding Your Data meetings in the 29 September 2021 meeting. This page will detail those reflections and links.
 author:
   - name: Zoë Turner
-    url: https://example.com/norajones
     affiliation: CDU Data Science Team
     affiliation_url: https://cdu-data-science-team.github.io/team-blog/
 date: 06-24-2021
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 A great deal of our data and analysis is produced in various formats that may not be accessible to everyone. Whilst the majority are happy with the formats, it may be prohibitive to those with specific needs to the extent that they may not even know that data can be provided in formats that are accessible to them.
 
-The Government Statistical Society (GSS) are doing a lot of [work around accessibility](https://gss.civilservice.gov.uk/news/accessibility-and-statistical-publications-what-do-you-want-to-know/) and the CDU Data Team wants to use these guidelines and promote them throughout the Trust and further. Consequently we'd like to dedicate the October meeting of Understanding Your Data to starting the conversations around accessibility. We have chosen this to be October in order to promote this within the Trust, to take account of summer holidays and to try to raise awareness of our interest with groups that may not necessarily have considered attending this meeting before, but who we would like to direct our thinking and approaches to working with data.
+The Government Statistical Society (GSS) are doing a lot of [work around accessibility](https://gss.civilservice.gov.uk/news/accessibility-and-statistical-publications-what-do-you-want-to-know/) and the CDU Data Team wants to use these guidelines and promote them throughout the Trust and further. Consequently we'd like to dedicate the September meeting of Understanding Your Data to starting the conversations around accessibility. We have chosen this to be October in order to promote this within the Trust, to take account of summer holidays and to try to raise awareness of our interest with groups that may not necessarily have considered attending this meeting before, but who we would like to direct our thinking and approaches to working with data.
 
 A couple of example of accessibility that we've considered are:
 
