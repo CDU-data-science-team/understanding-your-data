@@ -14,6 +14,10 @@ navbar:
       href: accessibility.html
     - text: "CDU Blog"
       href: https://cdu-data-science-team.github.io/team-blog/
+    - icon: fa fa-github
+      href: https://github.com/CDU-data-science-team/understanding-your-data
+    - icon: fa fa-twitter
+      href: https://twitter.com/DataScienceNott
 output: 
   distill::distill_article:
     css: styles.css
