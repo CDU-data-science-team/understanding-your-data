@@ -28,4 +28,6 @@ A couple of example of accessibility that we've considered are:
 
 Many of these have been inspired from GSS and from following individuals on Social Media, like Twitter, to learn about best practice and the difficulties different people face with data, analysis and visualisations. We are not experts in this area and are learning, and as we learn we are sharing.
 
-If you are interested in this, please do get in touch with the team at [CDU Data Science Team](mailto:cdudatascience@nottshc.nhs.uk)
+If you are interested in this, please do get in touch with the team at [CDU Data Science Team](mailto:cdudatascience@nottshc.nhs.uk). 
+
+[Slides from September's meeting](https://cdu-data-science-team.github.io/presentations/2021-09-29%20UYD%20spreadsheet%20accessibility/UYD-Spreadsheet-Accessibility.html#1)
