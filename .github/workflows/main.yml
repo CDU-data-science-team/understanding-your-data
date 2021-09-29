@@ -24,8 +24,11 @@ jobs:
           install.packages("distill")
         shell: Rscript {0}
 
-      - name: Render Site
-        run: Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
+      - name: Render site
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
         
       - name: Commit results
         run: |
