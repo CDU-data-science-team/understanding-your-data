@@ -16,16 +16,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 A great deal of our data and analysis is produced in various formats that may not be accessible to everyone. Whilst the majority are happy with the formats, it may be prohibitive to those with specific needs to the extent that they may not even know that data can be provided in formats that are accessible to them.
 
-The Government Statistical Society (GSS) are doing a lot of [work around accessibility](https://gss.civilservice.gov.uk/news/accessibility-and-statistical-publications-what-do-you-want-to-know/) and the CDU Data Team wants to use these guidelines and promote them throughout the Trust and further. Consequently we'd like to dedicate the September meeting of Understanding Your Data to starting the conversations around accessibility. We have chosen this to be October in order to promote this within the Trust, to take account of summer holidays and to try to raise awareness of our interest with groups that may not necessarily have considered attending this meeting before, but who we would like to direct our thinking and approaches to working with data.
+The Government Statistical Society (GSS) are doing a lot of [work around accessibility](https://gss.civilservice.gov.uk/news/accessibility-and-statistical-publications-what-do-you-want-to-know/) and the CDU Data Science Team wants to use these guidelines and promote them throughout the Trust and in our ICS. Consequently, we dedicated the [September meeting](https://cdu-data-science-team.github.io/presentations/2021-09-29%20UYD%20spreadsheet%20accessibility/UYD-Spreadsheet-Accessibility.html#1) of Understanding Your Data to starting the conversations around accessibility. 
 
 A couple of example of accessibility that we've considered are:
 
 * having a standard chart to accommodate accessibility for colour and contrast or at least having these charts available (without specific requests)
 * machine readable documentation which is useful for screen readers, but also for the programming tools we use as analyst and data scientists
 * accessible formats for documentation and reports
-* alt text for charts and images (alternative text which is the written explanation of what a picture is showing)
+* Alt text (alternative text) for charts and images (alternative text which is the written explanation of what a picture is showing)
 * using our data science tools to extract scanned pictures from pdfs which occur when documents are scanned. The tools we have use OCR (Optical Character Recognition) but still rely upon a person to see the text to extract
 
-Many of these have been inspired from GSS and from following individuals on Social Media, like Twitter, to learn about best practice and the difficulties different people face with data, analysis and visualisations.
+Many of these have been inspired from GSS and from following individuals on Social Media, like Twitter, to learn about best practice and the difficulties different people face with data, analysis and visualisations. We are not experts in this area and are learning, and as we learn we are sharing.
 
-If you are interested in this please do get in touch with the team at [CDU Data Science Team](mailto:cdudatascience@nottshc.nhs.uk)
+If you are interested in this, please do get in touch with the team at [CDU Data Science Team](mailto:cdudatascience@nottshc.nhs.uk)
