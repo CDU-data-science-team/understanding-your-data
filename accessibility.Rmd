@@ -30,4 +30,4 @@ Many of these have been inspired from GSS and from following individuals on Soci
 
 If you are interested in this, please do get in touch with the team at [CDU Data Science Team](mailto:cdudatascience@nottshc.nhs.uk). 
 
-[Slides from September's meeting](https://cdu-data-science-team.github.io/presentations/2021-09-29%20UYD%20spreadsheet%20accessibility/UYD-Spreadsheet-Accessibility.html#1)
+[Slides from September 2021's meeting](https://cdu-data-science-team.github.io/presentations/2021-09-29%20UYD%20spreadsheet%20accessibility/UYD-Spreadsheet-Accessibility.html#1)
