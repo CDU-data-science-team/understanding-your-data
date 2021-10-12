@@ -1869,10 +1869,7 @@ function init_distill() {
 
     // hoverable references
     $('span.citation[data-cites]').each(function() {
-      var refs = $(this).attr('data-cites').split(" ");
-      var refHtml = refs.map(function(ref) {
-        return "<p>" + $('#ref-' + ref).html() + "</p>";
-      }).join("\n");
+      var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
       window.tippy(this, {
         allowHTML: true,
         content: refHtml,
@@ -2412,7 +2409,7 @@ h1, h2, h3, h4, h5 {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Collecting data and reporting through MHSDS","description":"Discussions started with how gender identity is currently collected, how this is affected by a National Return and how we need to document how to escalage apparent mistakes in data appropriately.","authors":[{"author":"Zoë Turner","authorURL":"https://twitter.com/Letxuga007","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-07-28T00:00:00.000+01:00","citationText":"Turner, 2021"}
+{"title":"Collecting data and reporting through MHSDS","description":"Discussions started with how gender identity is currently collected, how this is affected by a National Return and how we need to document how to escalage apparent mistakes in data appropriately.","authors":[{"author":"Zoë Turner","authorURL":"https://twitter.com/Letxuga007","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-07-28T00:00:00.000+00:00","citationText":"Turner, 2021"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
