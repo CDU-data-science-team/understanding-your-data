@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages("distill")
+          remotes::install_github("rstudio/distill")
         shell: Rscript {0}
 
       - name: Render site
